@@ -1,0 +1,11 @@
+{
+  "format": "game-assistant-recording",
+  "version": 1,
+  "coordinate_mode": "screen",
+  "duration": 0.3,
+  "environment": {},
+  "events": [
+    {"type": "key", "t": 0.1, "vk": 65, "scan": 30, "extended": false, "down": true},
+    {"type": "key", "t": 0.2, "vk": 65, "scan": 30, "extended": false, "down": false}
+  ]
+}

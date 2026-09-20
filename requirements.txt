@@ -1,3 +1,3 @@
-PyQt6
-keyboard
-pywin32
+# Runtime: Python 3.12.x x64 on Windows, with Tkinter/Tcl/Tk.
+# All application dependencies are from the Python standard library.
+# No pip installation is required to run the source.

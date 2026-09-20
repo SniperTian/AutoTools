@@ -1,0 +1,9 @@
+{
+  "format": "game-assistant-queue",
+  "version": 1,
+  "steps": [
+    {"key": "1", "hold": 0.05, "wait": 1.0},
+    {"key": "CTRL+Q", "hold": 0.05, "wait": 0.5},
+    {"key": "SPACE", "hold": 0.1, "wait": 2.0}
+  ]
+}

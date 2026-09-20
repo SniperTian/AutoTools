@@ -1,0 +1,5 @@
+name: game_assistant
+dependencies:
+  - python=3.12
+  - pip
+  - tk
